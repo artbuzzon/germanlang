@@ -49,10 +49,6 @@ export default {
     &:hover {
         color: $color-secondary;
 
-        &__icon {
-            color: $color-secondary;
-        }
-
         &:after {
             content: "";
             position: absolute;
